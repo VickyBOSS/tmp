@@ -1,0 +1,115 @@
+{
+  "project_info": {
+    "project_number": "370908343665",
+    "firebase_url": "https://vquizhours.firebaseio.com",
+    "project_id": "vquizhours",
+    "storage_bucket": "vquizhours.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370908343665:android:f086ba6ee9c4654a9cdad0",
+        "android_client_info": {
+          "package_name": "com.vapps.qhadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370908343665-rks503c7v8lnt3lqkpsijne6bllihqsi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vapps.qhadmin",
+            "certificate_hash": "536ef72ca5c35bbd6b0ab451db7ab46901e038a1"
+          }
+        },
+        {
+          "client_id": "370908343665-4eb41uvlj6kbluo717odqjp56av1evgf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXxB5MxSxIncUU5w1mjW_XOjqFG18auok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370908343665-4eb41uvlj6kbluo717odqjp56av1evgf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370908343665:android:5766f4429b13935f9cdad0",
+        "android_client_info": {
+          "package_name": "com.vapps.quiki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370908343665-4eb41uvlj6kbluo717odqjp56av1evgf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXxB5MxSxIncUU5w1mjW_XOjqFG18auok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370908343665-4eb41uvlj6kbluo717odqjp56av1evgf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370908343665:android:41246d3d4fd79a379cdad0",
+        "android_client_info": {
+          "package_name": "com.vapps.quiz_hours"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370908343665-c7tb85gbggcgat9kbegaqk1a7ab2dnk4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vapps.quiz_hours",
+            "certificate_hash": "536ef72ca5c35bbd6b0ab451db7ab46901e038a1"
+          }
+        },
+        {
+          "client_id": "370908343665-4eb41uvlj6kbluo717odqjp56av1evgf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXxB5MxSxIncUU5w1mjW_XOjqFG18auok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370908343665-4eb41uvlj6kbluo717odqjp56av1evgf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-7125762060242443~2612412513"
+    }
+  ],
+  "configuration_version": "1"
+}
